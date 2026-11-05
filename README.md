@@ -189,6 +189,6 @@ Desarrollar un videojuego 2D de combate que combine **acción, estrategia y movi
 
 - Game Design Document (GDD): `docs/GDD_ROBOT_ARENA_STEEL_CLASH.pdf`
 
-## 👤 Autor
+## 👤 Autor Javier Argaez Hernández
 
 **Javier Alejandro Argaez Hernández**
