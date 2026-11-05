@@ -191,4 +191,5 @@ Desarrollar un videojuego 2D de combate que combine **acción, estrategia y movi
 
 ## 👤 Autor Javier Argaez Hernández
 
-**Javier Alejandro Argaez Hernández**
+
+
